@@ -329,3 +329,5 @@ Add Prometheus metrics and a Grafana dashboard for your server: [extras/observab
 ## Cleanup
 
 Cluster teardown is handled by the instructor after the workshop. Leave your cluster running.
+
+test
